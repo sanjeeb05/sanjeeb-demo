@@ -1,3 +1,4 @@
 # sanjeeb-demo
-This is my first git repository
-author-sanjeeb
+This is my first git repository.
+<br>
+Author-sanjeeb
