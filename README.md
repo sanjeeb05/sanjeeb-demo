@@ -1,4 +1,4 @@
 # sanjeeb-demo
 This is my first git repository.
 <br>
-Author-sanjeeb
+Author-sanjeeb (apna college)
